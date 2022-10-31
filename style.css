@@ -26,12 +26,6 @@ section {
   border-radius: 0px 10px 10px 0px;
   background-color: hsl(277deg, 64%, 61%);
 }
-.section-two .mobile {
-  display: none;
-}
-.section-two .desktop {
-  display: initial;
-}
 .section-two .image {
   width: 100%;
   height: 100%;
@@ -121,12 +115,6 @@ section {
     border-radius: 10px 10px 0px 0px;
     height: 300px;
     max-height: 550px;
-  }
-  .section-two .desktop {
-    display: none;
-  }
-  .section-two .mobile {
-    display: initial;
   }
   .section-two .image {
     border-radius: 10px 10px 0px 0px;
